@@ -1,0 +1,34 @@
+_repo: The-Young-SeigneurOr-Nation-Making_15256
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lighthall, W. D. (William Douw)
+    aliases:
+    - Châteauclair, Wilfrid
+    - Chateauclair, Wilfrid
+    - Schuyler-Lighthall, W. D. (William Douw)
+    - Lighthall, William Douw
+    birthdate: 1857
+    deathdate: 1954
+    gutenberg_agent_id: '5584'
+    url: http://www.gutenberg.org/2009/agents/5584
+    wikipedia: http://en.wikipedia.org/wiki/William_Douw_Lighthall
+description: ''
+gutenberg_issued: '2005-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canada -- History -- Fiction'
+title: 'The Young Seigneur
+
+  Or, Nation-Making'
+url: http://www.gutenberg.org/ebooks/15256
