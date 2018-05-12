@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5584
     wikipedia: http://en.wikipedia.org/wiki/William_Douw_Lighthall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15256#The-Young-SeigneurOr-Nation-Making
 gutenberg_issued: '2005-03-04'
 gutenberg_type: Text
 identifiers:
